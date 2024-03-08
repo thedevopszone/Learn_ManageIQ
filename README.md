@@ -5,6 +5,9 @@
 
 ```
 docker run -d -p 8443:443 manageiq/manageiq:petrosian-1
+
+admin
+smartvm
 ```
 
 
